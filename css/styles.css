@@ -9,6 +9,10 @@ header {
     height: 280px;
 }
 
+#company {
+    font-size: 40px;
+}
+
 main, footer {
     max-width: 960px;
     margin: 0 auto;
