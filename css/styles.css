@@ -21,10 +21,6 @@ h1 {
  
 }
 
-#h2 {
-    background-color: #b74
-}
-
 header h2 {
     position: relative;
     left: 20px;
@@ -32,5 +28,16 @@ header h2 {
 }
 
 main h2 {
-    color: black;
+    color: black;;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: #b74;
+    font-size: 20px;
+}
+
+ul {
+    font-size: large;
 }
