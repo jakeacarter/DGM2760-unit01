@@ -9,6 +9,11 @@ header {
     height: 280px;
 }
 
+main, footer {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
 h1 {
     position: relative;
     left: 20px;
